@@ -7,13 +7,21 @@ html{
   font-family: sans-serif;
   font-size: 62.5%;
 }
-body{
-  text-align: center;
+section{
+  
+  width: 50rem;
+  margin: 0 auto;
+  margin-top: 4rem;
 }
-header h1{
-
-  color: blue;
+.container{
+  border: black 1px solid;
+  height: 100%;
+  font-size: 2rem;
+  padding: 2rem;
 }
-main h1{
-  color:gray
+.container h1{
+  font-size: 3.0rem;
+}
+p{
+  color: gray;
 }
