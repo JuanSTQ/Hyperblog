@@ -2,4 +2,5 @@ Hola mi nombre es juan Tello Quinteros
 Tengo 19 años y vivo en Ecuador
 La verdad es que me gusta escribir codigo
 Me gusta las frutas
-Hoy hablaremos de su vida
+Hoy hablaremos de su vida 
+Historia y vida maestra
