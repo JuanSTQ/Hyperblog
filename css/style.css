@@ -7,7 +7,7 @@ html{
   font-family: sans-serif;
   font-size: 62.5%;
 }
-section{
+main section{
   
   width: 50rem;
   margin: 0 auto;
@@ -22,7 +22,7 @@ section{
 .container h1{
   font-size: 3.0rem;
 }
-p{
+.container p{
   color: gray;
   margin: 1rem 0;
 }
