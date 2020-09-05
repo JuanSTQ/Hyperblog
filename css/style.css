@@ -58,3 +58,35 @@ header{
 .container-header li{
   margin: 0 3rem;
 }
+footer{
+  position: absolute;
+  bottom: 0;
+  height: 6rem;
+  width: 100%; 
+  background-color: brown;
+
+}
+.section-footer{
+  width: 100%;
+  height: 100%;
+  display: flex;
+  justify-content: space-between ;
+  align-items: center;
+  font-family: sans-serif;
+}
+.container-p  p{
+  color: white;
+  font-size: 1.6rem;
+  margin-left: 2rem;
+  
+}
+.container-ul ul{
+  list-style: none;
+  display: flex;
+  color: white;
+}
+.container-ul li a {
+  margin: 0 2rem;
+  text-decoration: none;
+  color: white;
+}
