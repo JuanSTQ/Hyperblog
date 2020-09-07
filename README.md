@@ -14,6 +14,7 @@ En el curso profesional de git y git hub he aprendido a
 - Actualizacion !!! ......!!!!
 Creadi por el gran juan stq
 incluye ejemplos mac widows
+disponible para todas las edades
 
 
 ### nota
