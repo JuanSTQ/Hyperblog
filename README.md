@@ -12,6 +12,7 @@ En el curso profesional de git y git hub he aprendido a
 -  ignorar archivos de nuestro repositorio para que la comunidad no tenga acceso a informacion privada de la pagina!! mediante .gitignore . 
 - Realizar una archivo md para presentar el proyecto de nuestro repositirio git hub xD
 - Actualizacion !!! ......!!!!
+Creadi por el gran juan stq
 
 
 ### nota
